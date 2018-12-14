@@ -23,7 +23,7 @@ support_url: https://github.com/TrueRowing/steps-ios-auto-provision/issues
 published_at: 2018-12-06T18:50:29.589451157Z
 source:
   git: https://github.com/TrueRowing/steps-ios-auto-provision.git
-  commit: e98bdb0280cdfce7a1c5ea0ff2c9cb37677b6bcf
+  commit: 8eadf046965c32dc45918ac79c36ce3080a4b069
 host_os_tags:
 - osx-10.10
 - ubuntu-16.04
